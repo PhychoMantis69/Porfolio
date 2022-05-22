@@ -1,0 +1,17 @@
+
+p{
+   
+color: green;
+font-weight: bold;
+
+}
+
+#Peche{
+
+    color: black;
+    
+}
+
+.ColorDeTexto{
+    color: lawngreen;
+}
