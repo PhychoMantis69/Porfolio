@@ -1,17 +1,25 @@
+*{
 
-p{
-   
-color: green;
-font-weight: bold;
+
+
+
 
 }
 
-#Peche{
 
-    color: black;
-    
+.container-all img{
+
+    width: 300px;
+float: left;
+
+
 }
 
-.ColorDeTexto{
-    color: lawngreen;
-}
+
+.container-all p{
+
+    font-size: 18px;
+    font-weight: 300;
+
+
+}   
